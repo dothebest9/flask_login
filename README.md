@@ -16,12 +16,22 @@
  
   ## 🧱 Tech Stack
   ### Language
-  <!--Python-->
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dothebest9&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dothebest9&layout=compact" />
+</p>
 
-  ### 📜 쌩초보인 저의 개발자 되기 일지 입니다
-https://github.com/dothebest9/dothebest9
-  👉 <a href="[https://github.com/dothebest9/dothebest9]()" target="_blank">여기</a>를 눌러주세요.
 
-</div>
+
+
+  ### 📜 Blog
+쌩초보인 저의 개발자 되기 일지 입니다
+아직 많이부족하지만 더욱 꾸준히하겠습니다!
+<br/>
+https://velog.io/@dothebest9/posts
+
+####E-MAIL ✉️
+smrmtjsrn11@naver.com
