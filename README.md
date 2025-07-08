@@ -1,12 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%2C%20Coding%20Chef%20Sun-gu!%20%F0%9F%8D%B3&fontSize=35)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF6347&height=280&section=header&text=🏎️+Vroom!+Sun-gu+is+Here!+💨&fontSize=38&fontColor=ffffff)
 
 <div>
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a ...<br/>
-  #### :fire: I aim to become a ...<br/>
+  #### :raising_hand: I am a Backend Developer<br/>
+  #### :fire: I aim to become a <br/>
   #### :mortar_board: ...
   <br/>
   <br/>
