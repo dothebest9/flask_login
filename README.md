@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=800&pause=600&color=F75C1E&center=true&vCenter=true&width=500&lines=🏎️+Speeding+into+Code!;Mixing+Logic+and+Flavors+🍳" />
 </p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjHCWdU7F4ikD65C/giphy.gif" width="300" />
 </p>
