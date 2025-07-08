@@ -1,65 +1,27 @@
+ # About Me ❔
+**안녕하세요!**
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF6347&height=280&section=header&text=🏎️+Vroom!+Sun-gu+is+Here!+💨&fontSize=38&fontColor=ffffff)
+저는 백엔드 개발자를 목표로 공부하고 있는 **최선구**입니다.
+요식업과 자영업을 하며 쌓아온 경험을 바탕으로, 🍽
+누구나 쉽게 ‘**맛잘알**(맛집 전문가)’이 될 수 있는 서비스를 만드는 것이 
+저의 개발 **목표**입니다.
 
+현재는 Python을 중심으로 백엔드 개발 공부를 시작했으며,
+맛집 검색 기능을 직접 만들고 싶어서 개발의 길에 들어섰습니다.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjHCWdU7F4ikD65C/giphy.gif" width="300" />
-</p>
+최근에는 강의를 수강하고, 개발자 친구의 조언을 받아
+기초부터 하나하나 실습하며 학습을 이어가고 있습니다.
+배움이 재밌고, 구현이 될 때마다 큰 성취감을 느끼고 있습니다. 😊
 
-  <!--Body-->
-  
-  ## 👀 About Me
-  #### :raising_hand: I am a Backend Developer<br/>
-  #### :fire: I aim to become a <br/>
-  #### :mortar_board: ...
-  <br/>
-  <br/>
-  
+ 
   ## 🧱 Tech Stack
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <br/>
-  
-  ### Framework
-  <!--Flask-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <!--Django-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
-  
-  ### ETC
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <br/>
-  <br/>
-  
-  ## 🤔 Github Stats
-  [!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+  ### 📜 쌩초보인 저의 개발자 되기 일지 입니다
+https://github.com/dothebest9/dothebest9
+  👉 <a href="[https://github.com/dothebest9/dothebest9]()" target="_blank">여기</a>를 눌러주세요.
+
 </div>
-
-<!--
-** ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
