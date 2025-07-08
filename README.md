@@ -1,4 +1,10 @@
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF6347&height=280&section=header&text=🏎️+Vroom!+Sun-gu+is+Here!+💨&fontSize=38&fontColor=ffffff)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=800&pause=600&color=F75C1E&center=true&vCenter=true&width=500&lines=🏎️+Speeding+into+Code!;Mixing+Logic+and+Flavors+🍳" />
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjHCWdU7F4ikD65C/giphy.gif" width="300" />
+</p>
 
 <div>
   <!--Body-->
