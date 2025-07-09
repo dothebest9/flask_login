@@ -10,7 +10,7 @@ print(sum2)
 sum3=sum2//4
 print(sum3)
 #quiz 5
-print(500+sum1)
+print(500+(sum1-3)+(sum1-40)/3)
 #quiz 6
 print(sum1**0.5)
 #quiz 7
