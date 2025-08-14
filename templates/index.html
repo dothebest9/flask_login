@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Title</title>
+
+</head>
+<body>
+  <h1>name : {{ name }}</h1>
+  <!-- name : 지수  (진저2 문법을 알아야됨)-->
+  {% for user in users %}
+    <section style="margin-bottom: 14px;">
+      <h2>{{ user.name }}{{user.age}}세</h2>
+
+      {% if user.age >=19 %}
+        <p>상태 : 성인</p>
+      {% else %}
+        <p>상태 :미성년자</p>
+      {% endif %}
+
+    </section>
+  {% endfor %}
+
+</body>
+</html>
